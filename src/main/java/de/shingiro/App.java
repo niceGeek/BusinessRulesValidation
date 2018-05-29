@@ -16,6 +16,7 @@ public class App
     {
         System.out.println( "DROOLS RULEZ!" );
         System.out.println("...just to see if Jenkins triggers ;)");
+        System.out.println("Another one!");
     }
 
     /*
