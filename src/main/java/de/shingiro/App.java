@@ -15,8 +15,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "DROOLS RULEZ!" );
-        System.out.println("...just to see if Jenkins triggers ;)");
-        System.out.println("Another one!");
     }
 
     /*
